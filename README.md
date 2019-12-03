@@ -1,3 +1,4 @@
+[![Build Status](https://jasonfogt.visualstudio.com/SpaceGame%20-%20web%20-%20tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://jasonfogt.visualstudio.com/SpaceGame%20-%20web%20-%20tests/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
